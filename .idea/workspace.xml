@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="996e71b8-160b-461b-8187-dd700e56b23e" name="Changes" comment="y">
-      <change afterPath="$PROJECT_DIR$/src/FarmasiData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ResponModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoconnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_20220924.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +37,42 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;334&quot;,
     &quot;last_opened_file_path&quot;: &quot;F:/json-20220924.jar&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.twoconnect">
+  <component name="RunManager" selected="Application.MainFrame (2)">
+    <configuration name="MainFrame (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainFrame" />
+      <module name="Semester2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFrame (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainFrame" />
+      <module name="Semester2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rama.MainFrame" />
+      <module name="Semester2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rama.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="firstconnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="firstconnection" />
       <module name="Semester2" />
@@ -59,6 +89,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainFrame (2)" />
+        <item itemvalue="Application.MainFrame (1)" />
+        <item itemvalue="Application.MainFrame" />
         <item itemvalue="Application.twoconnect" />
         <item itemvalue="Application.firstconnection" />
       </list>
@@ -80,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678443785597</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="y">
+      <created>1679128814239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679128814239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
